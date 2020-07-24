@@ -2,6 +2,8 @@
 
 编程菜鸟， 日常摸鱼，爱好使然。
 
+[Telegram @AimerNeige](https://t.me/AimerNeige)
+
 <!--
 **aimerneige/aimerneige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
