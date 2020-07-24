@@ -2,7 +2,7 @@
 
 编程菜鸟， 日常摸鱼，爱好使然。
 
-[Telegram @AimerNeige](https://t.me/AimerNeige)          [AimerNeige's Blog](https://aimerneige.com)
+[Telegram @AimerNeige](https://t.me/AimerNeige) []() []() []() []() [AimerNeige's Blog](https://aimerneige.com)
 
 
 ### My dotmain: aimerneige.com
