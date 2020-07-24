@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-编程菜鸟， 日常摸鱼，爱好使然。
+Programming rookie, Always be lazy, Just hobby
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
 
