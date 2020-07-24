@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Programming rookie, Always be lazy, Just hobby
+Programming rookie. Always be lazy. Just hobby.
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
 
