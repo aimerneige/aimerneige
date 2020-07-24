@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am just a student on the North University of China.
+
 <!--
 **aimerneige/aimerneige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
