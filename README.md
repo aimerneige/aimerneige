@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am just a student on the North University of China.
+编程菜鸟， 日常摸鱼，爱好使然。
 
 <!--
 **aimerneige/aimerneige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
