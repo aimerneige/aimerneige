@@ -14,7 +14,7 @@ Programming rookie. Always be lazy. Just hobby.
 ### My dotmain: aimerneige.com
 
 <a href="#">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimerneige">
+<img align="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimerneige">
 </a>
 
 
