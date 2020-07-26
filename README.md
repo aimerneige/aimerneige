@@ -10,7 +10,7 @@ Programming rookie. Always be lazy. Just hobby.
 
 [AimerNeige's Blog](https://aimerneige.com)
 
-### My dotmain: aimerneige.com
+### My dotmain: `aimerneige.com`
 
 <!--
 **aimerneige/aimerneige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
