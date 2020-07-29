@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 Programming beginner from China.
-- 😄 Programming rookie. Always be lazy. Just hobby.
+- 😄 Programming rookie. Always be lazy.
 - 🌱 I’m currently learning Android.
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
