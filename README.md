@@ -4,9 +4,10 @@
 
 ### Hi there 👋
 
-- 🔭 Programming beginner from China.
+- 🤔 Programming beginner from China.
 - 😄 Programming rookie. Always be lazy.
-- 🌱 I’m currently learning Android.
+- 🌱 I’m currently learning English.
+- 🔭 I plan to learn some web.
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
 
