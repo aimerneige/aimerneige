@@ -7,7 +7,8 @@
 - 🤔 Programming beginner from China.
 - 😄 Programming rookie. Always be lazy.
 - 🌱 I’m currently learning English.
-- 🔭 I plan to learn some web.
+- 🔭 I plan to learn some web in the future.
+- 💻 I prefer using Linux as my development system.
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
 
