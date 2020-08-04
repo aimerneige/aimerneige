@@ -8,7 +8,7 @@
 - 😄 Programming rookie. Always be lazy.
 - 🌱 I’m currently learning English.
 - 🔭 I plan to learn some web in the future.
-- 💻 I prefer using Linux as my development system.
+- 💻 I prefer using Linux but I also use windows.
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
 
