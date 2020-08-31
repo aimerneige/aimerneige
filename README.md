@@ -7,7 +7,7 @@
 - 🤔 Programming beginner from China.
 - 😄 Programming rookie. Always be lazy.
 - 🌱 I’m currently learning web and php.
-- 🔭 I plan to learn some web in the future.
+<!-- - 🔭 I plan to learn some web in the future. -->
 - 💻 I prefer using Linux but I also use windows.
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
