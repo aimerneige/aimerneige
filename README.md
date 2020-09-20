@@ -6,7 +6,7 @@
 
 - 🤔 Programming beginner from China.
 - 😄 Programming rookie. Always be lazy.
-- 🌱 I’m currently learning web and JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 💻 I prefer using Linux but I also use windows.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
