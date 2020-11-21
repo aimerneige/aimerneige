@@ -12,7 +12,7 @@
 
 - 🤔 Programming beginner from China.
 - 😄 Programming rookie. Always be lazy.
-- 🌱 I’m currently learning Linux.
+- 🌱 I’m currently learning Web.
 - 💻 I prefer using Linux but I also use windows.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
