@@ -12,7 +12,7 @@
 
 - 🤔 Programming beginner from China learning IoT at NUC.
 - 😄 Programming rookie. Always be lazy.
-- 🌱 I’m currently learning Web.
+- 🌱 I’m currently learning JS and TS.
 - 💻 I prefer using Linux but I also use windows.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
