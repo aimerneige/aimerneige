@@ -20,7 +20,7 @@
 
 [AimerNeige's Blog](https://aimerneige.com)
 
-### My domain: `aimerneige.com`
+### My domain: `aimerneige.com` `neige.icu`
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimerneige&layout=compact)](https://github.com/AimerNeige/) -->
 
