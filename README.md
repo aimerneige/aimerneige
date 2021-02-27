@@ -12,7 +12,7 @@
 
 - 🤔 Programming beginner from China learning IoT at NUC.
 - 😄 Programming rookie. Always be lazy.
-- 🌱 I’m currently learning vue and electron.
+- 🌱 I’m currently learning golang.
 - 💻 I using Linux/MacOS. M$ Windows only for game.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
