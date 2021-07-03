@@ -25,7 +25,7 @@
 ### My domain:
 
 - `aimerneige.com`
-- `neige.icu`
+<!-- - `neige.icu` -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimerneige&layout=compact)](https://github.com/AimerNeige/) -->
 
