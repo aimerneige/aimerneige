@@ -16,8 +16,6 @@
 - 💻 Fedora user.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
-[My avator](https://github.com/aimerneige/avatar)
-
 [Telegram @AimerNeige](https://t.me/AimerNeige)
 
 [AimerNeige's Blog](https://aimerneige.com)
