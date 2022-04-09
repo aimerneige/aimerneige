@@ -13,7 +13,7 @@
 - 🤔 Programming beginner from China learning IoT at NUC.
 - 😄 Programming rookie. Always be lazy.
 - 🌱 I’m currently learning golang.
-- 💻 I prefer using Linux.
+- 💻 Fedora user.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
 [My avator](https://github.com/aimerneige/avatar)
