@@ -13,7 +13,7 @@
 - 🤔 Programming beginner from China learning IoT at NUC.
 - 😄 Programming rookie. Always be lazy.
 - 🌱 I’m currently learning golang.
-- 💻 Fedora user.
+- 💻 GNU/Linux user. Most used distro are Fedora.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
 [Telegram @AimerNeige](https://t.me/AimerNeige)
