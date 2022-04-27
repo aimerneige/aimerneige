@@ -18,10 +18,6 @@
 
 [AimerNeige's Blog](https://aimerneige.com)
 
-### My domain:
-
-- `aimerneige.com`
-
 <!--
 **aimerneige/aimerneige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
