@@ -16,8 +16,6 @@
 - 💻 GNU/Linux user. Most used distro is Fedora.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
-[Telegram @AimerNeige](https://t.me/AimerNeige)
-
 [AimerNeige's Blog](https://aimerneige.com)
 
 ### My domain:
