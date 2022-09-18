@@ -12,7 +12,7 @@
 
 - 🤔 Programming beginner from China learning IoT at NUC.
 - 😄 Programming rookie. Always be lazy.
-- 🌱 I’m currently learning electron.
+- 🌱 I’m currently learning haskell.
 - 💻 GNU/Linux user. Most used distro is Fedora.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
