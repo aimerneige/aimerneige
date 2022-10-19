@@ -13,7 +13,7 @@
 - 🤔 Programming beginner from China learning IoT at NUC.
 - 😄 Programming rookie. Always be lazy.
 - 🌱 I’m currently learning electron.
-- 💻 GNU/Linux user. Most used distro is Fedora.
+- 💻 GNU/Linux user.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
 [AimerNeige's Blog](https://aimerneige.com)
