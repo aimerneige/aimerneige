@@ -10,9 +10,8 @@
 
 ### Welcome to my profile!
 
-- 🤔 Programming beginner from China learning IoT at NUC.
+- 🤔 Golang Developer.
 - 😄 Programming rookie. Always be lazy.
-- 🌱 I’m currently learning electron.
 - 💻 GNU/Linux user.
 <!-- - 🔭 I plan to learn some web in the future. -->
 
